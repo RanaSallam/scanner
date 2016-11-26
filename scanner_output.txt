@@ -1,0 +1,33 @@
+read                : reserved Word
+x                      : identifier
+;                  : special Symbol
+if                  : reserved Word
+0                          : number
+<                  : special Symbol
+x                      : identifier
+then                : reserved Word
+fact                   : identifier
+:=                 : special Symbol
+1                          : number
+;                  : special Symbol
+repeat              : reserved Word
+fact                   : identifier
+:=                 : special Symbol
+fact                   : identifier
+*                  : special Symbol
+x                      : identifier
+;                  : special Symbol
+x                      : identifier
+:=                 : special Symbol
+x                      : identifier
+-                  : special Symbol
+1                          : number
+;                  : special Symbol
+until               : reserved Word
+x                      : identifier
+=                  : special Symbol
+0                          : number
+;                  : special Symbol
+write               : reserved Word
+fact                   : identifier
+end                 : reserved Word
